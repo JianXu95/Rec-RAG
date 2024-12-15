@@ -1,2 +1,2 @@
 # Rec-RAG
-placeholder
+Coming soon!
