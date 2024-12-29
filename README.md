@@ -1,2 +1,2 @@
 # Rec-RAG
-Coming soon!
+RAG for recommendation. Official implementation for submission.
